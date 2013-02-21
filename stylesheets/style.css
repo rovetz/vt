@@ -1,0 +1,469 @@
+/*///////////
+  TAG BASED
+///////////*/
+
+body, div, p, table, th, td, h1, h2, li, label, input, select, textarea {
+	font-family: Verdana, Arial, Helvetica, san-serif;
+	font-size: 12px;
+	color: #666666;
+	text-align: left;
+	line-height: 18px;
+}
+
+a, span, blockquote {
+	font-size: inherit;
+	font-family: inherit;
+	color: inherit;
+}
+
+a {
+	color: #a24212;
+	text-decoration: none;
+}
+a:hover { text-decoration: underline; }
+
+body, div, form {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #ffffff;
+	background-image: url('/images/bg-top.gif');
+	background-repeat: repeat-x;
+	background-attachment: scroll;
+	background-position: 0 0;
+}
+
+p {
+	margin: 10px 0 0 0;
+}
+
+h1 {
+	color: #849c4b;
+	font-size: 15px;
+	font-weight: bold;
+	margin: 10px 0 0 0;
+	padding: 0 0 5px 0;
+	border-bottom: 1px dashed #dfe4c5;
+}
+
+/*///////////
+  CONTAINER
+///////////*/
+div#divContainer {
+	width: 1012px;
+}
+
+/*////////////////
+  TOP NAVIGATION
+////////////////*/
+ul#ulNav {
+	width: 1012px;
+	height: 30px;
+	margin: 5px 0 17px 0;
+	padding: 0;
+	list-style: none;
+}
+	ul#ulNav li {
+		height: 25px;
+		line-height: 25px;
+		float: right;
+		margin: 0 0 0 10px;
+		padding: 0 10px 0 10px;
+	}
+	ul#ulNav li:hover, ul#ulNav li.liOn {
+		background-image: url('/images/menu-top-gen.gif');
+		background-repeat: repeat-x;
+		-webkit-border-radius: 6px;
+		-moz-border-radius: 10px;
+	}
+	ul#ulNav li a, ul#ulNav li a:hover {
+		color: #ffffff;
+		text-decoration: none;
+	}
+	ul#ulNav li a.aSpecial { color: #fde8ae; }
+
+/*////////////
+  LOGO IMAGE
+////////////*/
+img#imgLogo {
+	clear: left;
+	float: left;
+	border: 0;
+	/*width: 231px;
+	height: 131px;*/
+}
+
+/*//////////////
+  HEADER IMAGE
+//////////////*/
+img#imgPics {
+	clear: right;
+	float: right;
+	border: 0;
+	width: 734px;
+	height: 196px;
+}
+
+/*/////////////
+  BREAKER DIV
+/////////////*/
+div.divBreak {
+	clear: both;
+	height: 1px;
+	overflow: hidden;
+}
+
+/*//////////
+  RED TEXT
+//////////*/
+span.spnRed {
+	color: #a24212;
+}
+
+div#divIndexTop {
+	float: right;
+	font-size: 16px;
+	line-height: 25px;
+	height: 100px;
+	width: 740px;
+	margin: 22px 0 0 0;
+}
+
+
+/*////////////////
+  LEFT CONTAINER
+////////////////*/
+div#divLeft {
+	clear: left;
+	float: left;
+	width: 687px;
+	text-align: center;
+}
+
+	/*/////////////////
+	  GREEN CONTAINER
+	/////////////////*/
+	div#divLeft div.divGreen {
+		padding: 10px;
+		margin: 20px 0 15px 0;
+		background-color: #eaefd6;
+		color: #524938;
+		font-size: 13px;
+	}
+	
+	/*/////////////
+	  GREEN TABLE
+	/////////////*/
+	div#divLeft table.tblGreen {
+		padding: 0;
+		margin: 10px 0 0 0;
+		border: 1px solid #eaefd6;
+		width: 100%;
+	}
+		div#divLeft table.tblGreen th {
+			background-color: #eaefd6;
+			font-weight: bold;
+		}
+		div#divLeft table.tblGreen th, div#divLeft table.tblGreen td {
+			padding: 10px;
+			vertical-align: top;
+			font-size: 11.5px;
+			border: 1px solid #eaefd6;
+		}
+		div#divLeft table.tblGreen td h1 {
+			font-size: 11.5px;
+			margin: 0 0 5px 0;
+			padding: 0 0 5px;
+			border-bottom: 1px dashed #666666;
+			color: #666666;
+		}
+		div#divLeft table.tblGreen input {
+			border: 1px solid #666666;
+		}
+		
+	/*/////////////////
+	  HOME PAGE LISTS
+	/////////////////*/
+	div#divLeft div.divTourImageL, div#divLeft div.divTourImageR {
+		width: 193px;
+		height: 193px;
+		background-image: url('/images/foto-bg-index.jpg');
+		background-repeat: no-repeat;
+		background-position: 0 0;
+		background-attachment: scroll;
+	}
+		div#divLeft div.divTourImageL {
+			float: left;
+			clear: left;
+			margin: 30px 20px 0 0;
+		}
+		div#divLeft div.divTourImageR {
+			float: right;
+			clear: right;
+			margin: 30px 0 0 0;
+		}
+		div#divLeft div.divTourImageL img, div#divLeft div.divTourImageR img {
+			border: 0;
+			width: 143px;
+			height: 143px;
+			margin: 25px 0 0 25px;
+		}
+	div#divLeft div.divTour {
+		float: left;
+		width: 470px;
+		margin: 30px 0 0 0;
+	}
+		div#divLeft div.divTour h1 {
+			padding: 0;
+			margin: 0;
+			border: 0;
+		}
+			div#divLeft div.divTour h1 a { color: inherit; }
+		div#divLeft div.divTour ul {
+			height: 20px;
+			margin: 10px 0 0 0;
+			background-color: #f6f3eb;
+			list-style: none;
+			padding: 0 0 0 5px;
+		}
+			div#divLeft div.divTour ul li {
+				height: 20px;
+				line-height: 20px;
+				background-image: url('/images/bg_indexlist_li.png');
+				background-attachment: scroll;
+				background-repeat: no-repeat;
+				background-position: left center;
+				padding: 0 0 0 9px;
+				float: left;
+				margin: 0 20px 0 0;
+			}
+		div#divLeft div.divTour a.aMore {
+			font-weight: bold;
+			text-decoration: none;
+			background-image: url('/images/arrow-right.gif');
+			background-attachment: scroll;
+			background-repeat: no-repeat;
+			background-position: right center;
+			padding: 0 17px 2px 0;
+			border-bottom: 1px dotted #a24212;
+		}
+		
+		
+	/*////////////////
+	  WP POST /images
+	///////////////*/
+	img.alignleft {
+		float: left;
+		clear: left;
+		margin: 0 10px 10px 0;
+		border: 1px solid #cec4ae;
+	}
+	img.alignright {
+		float: right;
+		clear: right;
+		margin: 0 0 10px 10px;
+		border: 1px solid #cec4ae;
+	}
+
+/*/////////////////
+  RIGHT CONTAINER
+/////////////////*/
+div#divRight {
+	clear: right;
+	float: right;
+	width: 311px;
+}
+
+	/*////////////////
+	  WIN A TOUR BOX
+	////////////////*/
+	div#divRight div#divWin {
+		padding: 20px 23px 0 27px;
+		width: 261px;
+		height: 156px;
+		background-image: url('/images/box-win2.jpg');
+		background-repeat: no-repeat;
+		color: #ffffff;
+	}
+		div#divRight div#divWin h1 {
+			text-align: center;
+			border: 0;
+			color: #ffffff;
+			font-size: 12px;
+			margin: 0 0 10px 0;
+			padding: 0;
+		}
+		div#divRight div#divWin label {
+			width: 75px;
+			color: #ffffff;
+			font-size: 11px;
+			line-height: 25px;
+			height: 25px;
+			clear: left;
+			float: left;
+			margin: 10px 0 0 0;
+		}
+		div#divRight div#divWin input {
+			float: left;
+			height: 23px;
+			width: 163px;
+			border: 1px solid #666666;
+			margin: 10px 0 0 0;
+		}
+		div#divRight div#divWin span.spnRequired {
+			float: left;
+			line-height: 25px;
+			color: #ffffff;
+			font-size: 12px;
+			margin: 10px 0 0 5px;
+		}
+		div#divRight div#divWin label.lblSpam {
+			color: #856f49;
+			width: 130px;
+			line-height: 12px;
+			font-size: 9px;
+			float: left;
+			clear: left;
+		}
+		div#divRight div#divWin input.inSubmit {
+			background-image: url('/images/win-submit.jpg');
+			width: 108px;
+			text-align: center;
+			color: #a24212;
+			font-size: 11px;
+		}
+	
+	/*///////////////
+	  YOUTUBE VIDEO
+	///////////////*/
+	div#divRight div#divYoutube {
+		background-image: url('/images/box-youtube.jpg');
+		background-attachment: scroll;
+		background-position: 10px 0;
+		background-repeat: no-repeat;
+		padding: 8px 0 0 18px;
+		width: 293px;
+		height: 243px;
+		margin: 20px 0 0 0;
+	}
+	
+	/*/////////////
+	  GENERAL BOX
+	/////////////*/
+	div#divRight div.divBoxHead {
+		background-image: url('/images/box-normal-top.jpg');
+		background-attachment: scroll;
+		background-position: 0 0;
+		background-repeat: no-repeat;
+		color: #ffffff;
+		text-align: center;
+		font-weight: bold;
+		margin: 20px 0 0 0;
+		height: 30px;
+		line-height: 30px;
+	}
+		div#divRight div.divBoxTop {
+			background-image: url('/images/box-normal-bg.jpg');
+			background-attachment: scroll;
+			background-position: 0 -60px;
+			background-repeat: no-repeat;
+			height: 10px;
+			overflow: hidden;
+		}
+		div#divRight div.divBoxMid {
+			background-image: url('/images/box-normal-bg-gen.gif');
+			background-attachment: scroll;
+			background-position: 0 0;
+			background-repeat: repeat-y;
+			padding: 0 10px 20px 20px;
+			background-color: #f6f3ec;
+		}
+			div#divRight div.divBoxMid input {
+				border: 1px solid #cec4ae;
+				width: 213px;
+				height: 25px;
+				margin-top: 5px;
+			}
+			div#divRight div.divBoxMid textarea {
+				border: 1px solid #cec4ae;
+				width: 262px;
+				height: 70px;
+				margin-top: 5px;
+			}
+			div#divRight div.divBoxMid input.inSubmit {
+				background-image: url('/images/button-2.jpg');
+				border: 0;
+				width: 85px;
+				height: 33px;
+				margin-top: 5px;
+				text-align: center;
+				color: #a24212;
+				font-size: 11px;
+			}
+			div#divRight div.divBoxMid ul {
+				list-style: none;
+				padding: 0;
+				margin: 0;
+			}
+				div#divRight div.divBoxMid ul li.liLink, div#divRight div.divBoxMid ul li.liReason {
+					font-size: 11.5px;
+					padding: 5px 0 5px 0;
+					border-bottom: 1px dashed #cec4ae;
+				}
+				div#divRight div.divBoxMid ul li.liLink { text-align: center; }
+				div#divRight div.divBoxMid ul li.liLink:hover {
+					background-color: #ffffff;
+				}
+				div#divRight div.divBoxMid ul li.liReason { font-size: 12px; }
+				div#divRight div.divBoxMid ul li.liLink a:hover { text-decoration: none; }
+			div#divRight div.divBoxMid table#tblQuick {
+				width: 270px;
+				border: 0;
+				margin: 0;
+				padding: 0;
+				padding-bottom: 5px;
+				border-bottom: 1px dashed #cec4ae;
+			}
+			div#divRight div.divBoxMid table#tblQuick h1 {
+				font-size: 11px;
+				color: #a24212;
+				text-align: center;
+				border: 0;
+				margin: 0;
+				padding: 5px 0 5px 0;
+			}
+			div#divRight div.divBoxMid table#tblQuick td {
+				vertical-align: top;
+				font-size: 11px;
+				text-align: left;
+			}
+			div#divRight div.divBoxMid table#tblQuick td.tdLabel {
+				width: 50%;
+				border-left: 1px solid #cec4ae;
+				border-right: 1px solid #cec4ae;
+				border-top: 0;
+				border-bottom: 1px dashed #cec4ae;
+				text-align: center;
+				padding: 5px 0 5px 0;
+			}
+		div#divRight div.divBoxBot {
+			background-image: url('/images/box-normal-bottom.jpg');
+			background-attachment: scroll;
+			background-position: left bottom;
+			background-repeat: no-repeat;
+			height: 40px;
+			overflow: hidden;
+		}
+
+div#divFoot {
+	line-height: 60px;
+	height: 60px;
+	border-top: 1px #c2b08e solid;
+	background: #f3efe3;
+	color:#9c8e6f;
+	text-align: center;
+	margin: 30px 0 0 0;
+}
+div#divFoot a{ color: #9c8e6f; }
