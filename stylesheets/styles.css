@@ -29,7 +29,7 @@ body, div, form {
 
 body {
 	background-color: #ffffff;
-	background-image: url('/images/bg-top.gif');
+	background-image: url('../images/bg-top.gif');
 	background-repeat: repeat-x;
 	background-attachment: scroll;
 	background-position: 0 0;
@@ -73,7 +73,7 @@ ul#ulNav {
 		padding: 0 10px 0 10px;
 	}
 	ul#ulNav li:hover, ul#ulNav li.liOn {
-		background-image: url('/images/menu-top-gen.gif');
+		background-image: url('../images/menu-top-gen.gif');
 		background-repeat: repeat-x;
 		-webkit-border-radius: 6px;
 		-moz-border-radius: 10px;
@@ -189,7 +189,7 @@ div#divLeft {
 	div#divLeft div.divTourImageL, div#divLeft div.divTourImageR {
 		width: 193px;
 		height: 193px;
-		background-image: url('/images/foto-bg-index.jpg');
+		background-image: url('../images/foto-bg-index.jpg');
 		background-repeat: no-repeat;
 		background-position: 0 0;
 		background-attachment: scroll;
@@ -231,7 +231,7 @@ div#divLeft {
 			div#divLeft div.divTour ul li {
 				height: 20px;
 				line-height: 20px;
-				background-image: url('/images/bg_indexlist_li.png');
+				background-image: url('../images/bg_indexlist_li.png');
 				background-attachment: scroll;
 				background-repeat: no-repeat;
 				background-position: left center;
@@ -242,7 +242,7 @@ div#divLeft {
 		div#divLeft div.divTour a.aMore {
 			font-weight: bold;
 			text-decoration: none;
-			background-image: url('/images/arrow-right.gif');
+			background-image: url('../images/arrow-right.gif');
 			background-attachment: scroll;
 			background-repeat: no-repeat;
 			background-position: right center;
@@ -252,7 +252,7 @@ div#divLeft {
 		
 		
 	/*////////////////
-	  WP POST /images
+	  WP POST ../images
 	///////////////*/
 	img.alignleft {
 		float: left;
@@ -283,7 +283,7 @@ div#divRight {
 		padding: 20px 23px 0 27px;
 		width: 261px;
 		height: 156px;
-		background-image: url('/images/box-win2.jpg');
+		background-image: url('../images/box-win2.jpg');
 		background-repeat: no-repeat;
 		color: #ffffff;
 	}
@@ -328,7 +328,7 @@ div#divRight {
 			clear: left;
 		}
 		div#divRight div#divWin input.inSubmit {
-			background-image: url('/images/win-submit.jpg');
+			background-image: url('../images/win-submit.jpg');
 			width: 108px;
 			text-align: center;
 			color: #a24212;
@@ -339,7 +339,7 @@ div#divRight {
 	  YOUTUBE VIDEO
 	///////////////*/
 	div#divRight div#divYoutube {
-		background-image: url('/images/box-youtube.jpg');
+		background-image: url('../images/box-youtube.jpg');
 		background-attachment: scroll;
 		background-position: 10px 0;
 		background-repeat: no-repeat;
@@ -353,7 +353,7 @@ div#divRight {
 	  GENERAL BOX
 	/////////////*/
 	div#divRight div.divBoxHead {
-		background-image: url('/images/box-normal-top.jpg');
+		background-image: url('../images/box-normal-top.jpg');
 		background-attachment: scroll;
 		background-position: 0 0;
 		background-repeat: no-repeat;
@@ -365,7 +365,7 @@ div#divRight {
 		line-height: 30px;
 	}
 		div#divRight div.divBoxTop {
-			background-image: url('/images/box-normal-bg.jpg');
+			background-image: url('../images/box-normal-bg.jpg');
 			background-attachment: scroll;
 			background-position: 0 -60px;
 			background-repeat: no-repeat;
@@ -373,7 +373,7 @@ div#divRight {
 			overflow: hidden;
 		}
 		div#divRight div.divBoxMid {
-			background-image: url('/images/box-normal-bg-gen.gif');
+			background-image: url('../images/box-normal-bg-gen.gif');
 			background-attachment: scroll;
 			background-position: 0 0;
 			background-repeat: repeat-y;
@@ -393,7 +393,7 @@ div#divRight {
 				margin-top: 5px;
 			}
 			div#divRight div.divBoxMid input.inSubmit {
-				background-image: url('/images/button-2.jpg');
+				background-image: url('../images/button-2.jpg');
 				border: 0;
 				width: 85px;
 				height: 33px;
@@ -449,7 +449,7 @@ div#divRight {
 				padding: 5px 0 5px 0;
 			}
 		div#divRight div.divBoxBot {
-			background-image: url('/images/box-normal-bottom.jpg');
+			background-image: url('../images/box-normal-bottom.jpg');
 			background-attachment: scroll;
 			background-position: left bottom;
 			background-repeat: no-repeat;
