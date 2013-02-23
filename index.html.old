@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+
+<head>
+  <meta name="google-site-verification" content="rrqO5hYNuxaYP2CybZCkH2VawXSvYB_7EQN3A_8-PKk" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>Велотуры по Бахчисараю</title>
+
+  <link rel="stylesheet" type="text/css" href="stylesheets/styles.css" media="screen">
+</head>
+
+<body>
+
+<center>
+  <div id="divContainer">
+
+    <!-- Menu -->
+<ul id="ulNav">
+    <li><a title="О нас" href="/about" class="underline">О нас</a></li>
+    <li><a title="Исторические памятники" href="/places" class="underline">Исторические памятники</a></li>
+    <li><a title="Стоимость" href="/price" class="underline">Стоимость</a></li>
+    <li><a title="Маршруты" href="/tours" class="underline">Маршруты</a></li>
+    <li><a title="Главная" href="/" class="underline">Главная</a></li>
+</ul>
+
+    <a href="/"><img src="images/bike_logo.png" id="imgLogo"/></a>
+    <!--<a href="http://www.commoncircle.com"><img src="  images/bike_logo.png" id="imgLogo"/></a> -->
+
+    <!--<img src="http://www.commoncircle.com/wp-content/themes/ecospark01images/img-header.jpg_" id="imgPics"/>-->
+
+    <div id="divIndexTop">
+      <span class="spnRed">Активный отдых – это не экстрим и не спорт.</span><br/>
+       Здесь обязательно есть физическая активность, но не для того чтобы утомить Вас и превратить Ваш отпуск или выходные в тяжелый труд. 
+   В наших турах могут принять участие все желающие.
+      <span class="spnRed">Не нужно быть профессионалом или спортсменом.</span> 
+    </div>
+
+    <div style="margin-bottom: 11px;" class="divBreak"> </div>
+    <div style="margin-bottom: 11px;" class="divBreak"> </div>
+    <div style="margin-bottom: 11px;" class="divBreak"> </div>
+    <div style="margin-bottom: 11px;" class="divBreak"> </div>
+
+    <!-- Content (Left, Right) -->
+    <div id="divLeft">
+
+    <h1>Велосипед самый распространенный и доступный вид отдыха.</h1>
+
+    <div class="divGreen">
+        Во всем мире можно наблюдать так называемый «велосипедный бум», потому как у людей в корне изменилось отношение к отдыху 
+        и представление о нем. Сейчас большинство предпочитает отдыхать на природе и заниматься спортом не в спортивных залах, 
+        а на свежем воздухе.<br/>
+        Велотуры и велопоходы – это не экстрим и не спорт. Каждый желающий может принять участие, а мы позаботимся, чтобы у Вас остались 
+        максимум ярких воспоминаний.
+    </div> <br/>
+    
+    <div style="margin-top: 0pt;" class="divTourImageL">
+        <img alt="Велотуры по Крыму" src="images/bakla.jpg"/>
+    </div>
+
+    <div style="margin-top: 0pt;" class="divTour">
+        <h1>
+          <a title="Велотуры по Крыму" href="/tours" class="underline">НЕДОРОГОЙ ВЕЛОТУР ПО КРЫМУ</a>
+        </h1>
+
+        <ul>
+          <li>местность: <span class="spnRed">окрестности Бахчисарая</span></li>
+          <li>тип: <span class="spnRed">однодневный тур</span></li>
+        </ul>
+
+        <p>
+          Пусть Вас не беспокоят прохладные ночи, все ночлеги проходят в тепле. Все поездки однодневные. 
+          Вы сами выбираете заинтересовавшие Вас направления и продолжительность поездки.
+          Сделайте велосипед частью своей жизни, и он в долгу не останется.
+        </p>
+
+        <p>
+      <a href="/tours" class="aMore underline">подробнее</a>
+        </p>
+    </div>
+
+    <div class="divTourImageR">
+        <img alt="характеристика тура" src="images/nauchny4.jpg"/>
+    </div>
+
+    <div class="divTour">
+        <h1>
+          <a title="Характеристика тура" href="/tours" class="underline">ХАРАКТЕРИСТИКА ТУРА</a>
+        </h1>
+
+        <ul>
+          <li>местность: <span class="spnRed">окрестности Бахчисарая</span></li>
+          <li>тип: <span class="spnRed">однодневный тур</span></li>
+        </ul>
+
+        <p>               
+            Однодневные путешествия по выбранному Вами маршруту. Участникам необходимо иметь навыки езды на велосипеде. 
+            Особая форма горных массивов Внутренней и Внешней гряд Крымских гор, которые с юга представляют собой очень крутые склоны 
+            с вертикальными обрывами, а с севера очень долгие и пологие спуски, позволяет ездить на велосипеде вообще без дорог. 
+            Часть пути проходит по асфальту, часть по грунтовым дорогам. В некоторых местах велосипед приходится вести в руках. 
+            Каждый день Вы путешествуете налегке. 
+        </p>
+
+        <p>
+      <a href="/tours" class="aMore underline">подробнее</a>
+        </p>
+    </div>
+</div>
+
+<div id="divRight">
+    <div id="divWin">
+  <h1>КОНТАКТЫ:</h1>
+
+  <p><b>Адрес:</b> г.Бахчисарай </p>
+        <p><b>Телефон:</b> 8-095-309-64-09 (Дмитрий)</p>
+        <p><b>E-mail:</b> vellobox@gmail.com</p>
+</div>
+    <div class="divBoxHead" style="height: 53px; padding-top: 5px; line-height: 18px; background-image: url(http://www.commoncircle.com/wp-content/themes/ecospark01images/box-you-can-top.jpg); background-position: 10px 0pt;">
+МЫ ПРЕДОСТАВЛЯЕМ <br/>
+СЛЕДУЮЩИЕ УСЛУГИ:
+</div>
+
+<div class="divBoxMid">
+  <ul>
+    <li class="liReason">Организация <span class="spnRed">велосипедных туров</span></li>
+    <li class="liReason">Предоставление <span class="spnRed">жилья</span></li>
+    <li class="liReason">Услуги <span class="spnRed">гида</span></li>
+    <li class="liReason">Прокат <span class="spnRed">велосипедов</span></li>
+    <li class="liReason">Организация  <span class="spnRed">поездок</span> по южному берегу Крыма <span class="spnRed">на автомобиле</span></li>
+  </ul>
+</div>
+
+<div class="divBoxBot"></div>
+    <div class="divBoxHead">ИСТОРИЧЕСКИЕ ПАМЯТНИКИ</div>
+
+<div class="divBoxTop"></div>
+
+<div class="divBoxMid">
+    <ul>
+        <li class="liLink">
+            <a href="/places/bakla" class="underline">Пещерный город Бакла</a>
+        </li>
+        <li class="liLink">
+            <a href="/places/tepe-kermen" class="underline">Пещерный город Тепе-Кермен</a>
+        </li>
+        <li class="liLink">
+            <a href="/places/kachi-kalion" class="underline">Качи Кальон</a>
+        </li>
+        <li class="liLink">
+            <a href="/places/nauchny" class="underline">Поселок Научный</a>
+        </li>
+        <li class="liLink">
+            <a href="/places/monastyr" class="underline">Успенский пещерный монастырь</a>
+        </li>
+        <li class="liLink">
+            <a href="/places/chufut-kale" class="underline">Пещерный город Чуфут-Кале</a>
+        </li>
+        <li class="liLink">
+            <a href="/places/hanskiy" class="underline">Ханский дворец</a>
+        </li>
+    </ul>
+</div>
+
+<div class="divBoxBot"></div>
+</div>
+
+    <div style="margin-bottom: 10px;" class="divBreak"> </div>
+
+  </div>
+</center>
+
+<!-- Footer -->
+<div id="divFoot">
+    велосипедные туры | предоставление жилья | услуги гида | прокат велосипедов | поездки по ЮБК на автомобиле
+</div>
+
+<!-- Google Analitics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src=\'" + gaJsHost + "google-analytics.com/ga.js\' type=\'text/javascript\'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-15881686-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1013490-2");
+pageTracker._setDomainName("none");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+
+
+</html>
