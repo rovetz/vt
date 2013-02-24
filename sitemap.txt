@@ -1,0 +1,9 @@
+---
+title : Sitemap
+---
+
+{% for page in site.pages %} 
+http://veloturizm.in.ua{{ page.url }} {% endfor %}
+
+{% for post in site.posts %} 
+http://veloturizm.in.ua{{ post.url }} {% endfor %}

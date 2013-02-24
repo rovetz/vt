@@ -1,0 +1,15 @@
+## Useful metadata, available to a liquid filter as site.title, site.author.name, etc
+## Used in _inculdes templates headers and footers.  
+title: Велотуры по Бахчисараю 
+tagline:
+author:
+  name: Dmitry Datsenko
+  email: vellobox@gmail.com
+  givenName: Dmitry
+  familyName: Datsenko
+keywords: Велотуры по Крыму, Велотуры по Бахчисараю, Велотуризм, Велотуры, Велопоходы, Радиальные туры
+description: Велотуры по Бахчисараю
+url: http://veloturizm.in.ua
+
+## Google Analytics key (in _includes/analytics.html)
+analytics: UA-1013490-2
